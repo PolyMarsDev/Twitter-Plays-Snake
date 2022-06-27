@@ -1,4 +1,4 @@
-# Team Snake
+# Twitter Plays Snake
  
 Twitter Plays Snake is a Twitter bot written with [Twitter4J](https://github.com/Twitter4J/Twitter4J) that allows users to play a collaborative game of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) using likes and retweets.
 ## Screenshots
